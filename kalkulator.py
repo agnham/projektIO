@@ -6,4 +6,8 @@ iloczyn = a*c
 print(iloczyn)
 b = 2
 print(a+b)
+<<<<<<< HEAD
 print('hello')
+mianownik = input()
+iloraz = a/mianownik
+print(round(iloraz),2)
