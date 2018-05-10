@@ -10,3 +10,5 @@ print('hello')
 mianownik = input()
 iloraz = a/mianownik
 print(iloraz)
+
+print = a+b+c #dodanie na galaz 4
