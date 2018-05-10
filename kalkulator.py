@@ -6,8 +6,9 @@ iloczyn = a*c
 print(iloczyn)
 b = 2
 print(a+b)
-<<<<<<< HEAD
 print('hello')
 mianownik = input()
 iloraz = a/mianownik
-print(round(iloraz),2)
+print(iloraz)
+
+print = a+b+c #dodanie na galaz 4
