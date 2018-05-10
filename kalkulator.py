@@ -7,3 +7,6 @@ print(iloczyn)
 b = 2
 print(a+b)
 print('hello')
+mianownik = input()
+iloraz = a/mianownik
+print(iloraz)
